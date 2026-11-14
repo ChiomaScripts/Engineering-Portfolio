@@ -17,11 +17,13 @@ This portfolio brings together professional engineering work, academic research,
 
 | Engineering Area | Explore |
 | :--- | :--- |
-| ☁️ **DevOps & Cloud Engineering** | [View Projects](#devops--cloud-engineering) |
-| 🏢 **Professional & Applied Engineering** | [View Projects](#professional--applied-engineering) |
-| 🐍 **Python Development, Analytics & Learning** | [View Projects](#python-development-analytics--learning-projects) |
+| ☁️ **DevOps & Cloud Engineering** | [View Projects](#devops-projects) |
+| 🏢 **Professional & Applied Engineering** | [View Projects](#professional-projects) |
+| 🐍 **Python Development, Analytics & Learning** | [View Projects](#python-projects) |
 
 ---
+
+<a id="devops-projects"></a>
 
 ## ☁️ DevOps & Cloud Engineering
 
@@ -74,6 +76,8 @@ It contains project navigation, implementation documentation and a record of my 
 *Additional implementations will be included as they are completed and documented.*
 
 ---
+
+<a id="professional-projects"></a>
 
 ## 🏢 Professional & Applied Engineering
 
@@ -133,7 +137,7 @@ The solution supports the capture, organisation and management of inspection inf
 
 ---
 
-### 04. [Emotion Annotation of Customer Reviews](https://github.com/ChiomaScripts/My-Portfolio/tree/main/Emotion%20Annotation%20of%20Customer%20Reviews)
+### 04. [Emotion Annotation of Customer Reviews](https://github.com/ChiomaScripts/Applied-Engineering-Projects/tree/main/Emotion%20Annotation%20of%20Customer%20Reviews)
 
 **Applied Machine Learning | Natural Language Processing**
 
@@ -145,7 +149,7 @@ The project demonstrates practical data preparation, natural language processing
 
 ---
 
----
+<a id="python-projects"></a>
 
 ## 🐍 Python Development, Analytics & Learning Projects
 
@@ -181,14 +185,12 @@ These earlier projects are retained as part of my development journey, reflectin
 
 | Project | Description | Source |
 | :--- | :--- | :--- |
-| **Product Sales Automation** | Automates reading and processing sales transaction data from text files. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/Product%20Sales%20Automation) |
-| **Automated Files & Folders Organiser** | Organises files and directories and supports temporary file cleanup. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/Automated%20Files%20%26%20Folders%20Organiser) |
-| **Contact Info Extractor** | Uses regular expressions to extract emails, phone numbers and URLs from text. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/contact%20Info%20Extractor) |
-| **Password Checker** | Uses an external API to check passwords against known breach records. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/password%20checker) |
-| **Word Guesser Game** | A foundational Python programming exercise implementing a word-guessing game. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/word_guesser_game) |
-| **Impromptu Data Analysis** | Exploratory data analysis exercises involving Python and data manipulation. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/impromptu_analysis) |
-
-
+| **Product Sales Automation** | Automates reading and processing sales transaction data from text files. | [View Project](https://github.com/ChiomaScripts/Applied-Engineering-Projects/tree/main/Product%20Sales%20Automation) |
+| **Automated Files & Folders Organiser** | Organises files and directories and supports temporary file cleanup. | [View Project](https://github.com/ChiomaScripts/Applied-Engineering-Projects/tree/main/Automated%20Files%20%26%20Folders%20Organiser) |
+| **Contact Info Extractor** | Uses regular expressions to extract emails, phone numbers and URLs from text. | [View Project](https://github.com/ChiomaScripts/Applied-Engineering-Projects/tree/main/contact%20Info%20Extractor) |
+| **Password Checker** | Uses an external API to check passwords against known breach records. | [View Project](https://github.com/ChiomaScripts/Applied-Engineering-Projects/tree/main/password%20checker) |
+| **Word Guesser Game** | A foundational Python programming exercise implementing a word-guessing game. | [View Project](https://github.com/ChiomaScripts/Applied-Engineering-Projects/tree/main/word_guesser_game) |
+| **Impromptu Data Analysis** | Exploratory data analysis exercises involving Python and data manipulation. | [View Project](https://github.com/ChiomaScripts/Applied-Engineering-Projects/tree/main/impromptu_analysis) |
 
 ---
 
@@ -198,7 +200,7 @@ These earlier projects are retained as part of my development journey, reflectin
 | :--- | :--- |
 | 🌐 [Live Engineering Portfolio](https://chiomascripts.github.io/engineering-portfolio/) | Visual portfolio website |
 | ☁️ [DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio) | Detailed DevOps implementation collection |
-| 🏢 [Professional & Applied Engineering Projects](https://github.com/ChiomaScripts/My-Portfolio) | Applied engineering, analytics and Python project collection |
+| 🏢 [Professional & Applied Engineering Projects](https://github.com/ChiomaScripts/Applied-Engineering-Projects) | Applied engineering, analytics and Python project collection |
 | 💻 [GitHub Profile](https://github.com/ChiomaScripts) | Professional background, skills and achievements |
 | 🔗 [LinkedIn](https://linkedin.com/in/chioma-okpala) | Professional profile |
 
