@@ -188,7 +188,7 @@ These earlier projects are retained as part of my development journey, reflectin
 | **Word Guesser Game** | A foundational Python programming exercise implementing a word-guessing game. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/word_guesser_game) |
 | **Impromptu Data Analysis** | Exploratory data analysis exercises involving Python and data manipulation. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/impromptu_analysis) |
 
----
+
 
 ---
 
