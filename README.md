@@ -17,9 +17,9 @@ This portfolio brings together professional engineering work, academic research,
 
 | Engineering Area | Explore |
 | :--- | :--- |
-| ☁️ **DevOps & Cloud Engineering** | [View Projects](#️-devops--cloud-engineering) |
-| 🏢 **Professional & Applied Engineering** | [View Projects](#-professional--applied-engineering) |
-| 🐍 **Python Development, Analytics & Learning** | [View Projects](#-python-development-analytics--learning-projects) |
+| ☁️ **DevOps & Cloud Engineering** | [View Projects](#devops--cloud-engineering) |
+| 🏢 **Professional & Applied Engineering** | [View Projects](#professional--applied-engineering) |
+| 🐍 **Python Development, Analytics & Learning** | [View Projects](#python-development-analytics--learning-projects) |
 
 ---
 
@@ -39,7 +39,6 @@ The implementation covers Linux administration, SSH authentication, user permiss
 
 **Technologies:** DigitalOcean · Ubuntu Linux · SSH · SCP · Java · Gradle · Spring Boot
 
-
 ---
 
 #### 02. [Nexus Artifact Repository Management](https://github.com/ChiomaScripts/Dev6-nexus-artifact-repository)
@@ -49,7 +48,6 @@ Deployed and configured Sonatype Nexus Repository Manager on a cloud-hosted Linu
 The project includes repository configuration, troubleshooting server resource constraints, managing permissions and publishing artifacts using Gradle and Maven.
 
 **Technologies:** DigitalOcean · Ubuntu Linux · Nexus Repository Manager · Gradle · Maven · Java
-
 
 ---
 
@@ -62,7 +60,6 @@ The implementation demonstrates custom Docker image creation, container lifecycl
 The project also documents the application architecture, CRUD operations, verification steps and troubleshooting encountered during implementation.
 
 **Technologies:** Docker · Python · FastAPI · MongoDB · Mongo Express · Docker Networking · WSL 2
-
 
 ---
 
@@ -87,6 +84,7 @@ The work spans production observability, operational automation, application dev
 Some professional implementations are confidential. Their summaries describe the engineering objectives, technologies and outcomes without exposing proprietary source code or sensitive operational information.
 
 ### 01. Splunk Alerting & Observability Framework
+
 **Professional Engineering | Private Implementation**
 
 Designed and developed monitoring and alerting workflows supporting business-critical, real-time trading operations.
@@ -104,6 +102,7 @@ The monitoring framework supports proactive incident detection and investigation
 ---
 
 ### 02. Synthetic Financial Data Generation Using GANs
+
 **Applied AI Research | Private Implementation**
 
 Developed and evaluated a generative AI approach for creating synthetic financial transaction data while preserving important statistical characteristics of the original dataset.
@@ -121,6 +120,7 @@ The project explored generative adversarial networks and synthetic data evaluati
 ---
 
 ### 03. FSE Compliance Portal
+
 **Application Engineering | Private Implementation**
 
 Developed a full-stack food safety compliance application designed to replace paper-based inspection records with a structured digital workflow.
@@ -143,7 +143,6 @@ The project demonstrates practical data preparation, natural language processing
 
 **Technologies:** Python · NLTK · Scikit-Learn · Support Vector Machines · Pandas · Matplotlib
 
-
 ---
 
 ## 🐍 Python Development, Analytics & Learning Projects
@@ -162,7 +161,6 @@ The project applies data processing and visual analytics to explore patterns in 
 
 **Technologies:** Python · Pandas · Plotly · Exploratory Data Analysis
 
-
 ---
 
 #### 02. [Instagram Analytics Dashboard](https://github.com/ChiomaScripts/Instagram_Analytics_Dashboard)
@@ -173,10 +171,10 @@ The project demonstrates data processing, interactive application development an
 
 **Technologies:** Python · Streamlit · Pandas · Plotly
 
-
 ---
 
-#### 03. Python Automation & Foundational Projects
+#### 03. Other Python Development & Learning Projects
+
 These earlier projects are retained as part of my development journey, reflecting the progression from foundational Python programming to more complex engineering applications.
 
 | Project | Description | Source |
@@ -187,8 +185,6 @@ These earlier projects are retained as part of my development journey, reflectin
 | **Password Checker** | Uses an external API to check passwords against known breach records. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/password%20checker) |
 | **Word Guesser Game** | A foundational Python programming exercise implementing a word-guessing game. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/word_guesser_game) |
 | **Impromptu Data Analysis** | Exploratory data analysis exercises involving Python and data manipulation. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/impromptu_analysis) |
-
-**🐍 [Explore the Python & Applied Engineering Project Collection](https://github.com/ChiomaScripts/My-Portfolio)**
 
 ---
 
