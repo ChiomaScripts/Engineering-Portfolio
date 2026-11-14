@@ -145,6 +145,8 @@ The project demonstrates practical data preparation, natural language processing
 
 ---
 
+---
+
 ## 🐍 Python Development, Analytics & Learning Projects
 
 This collection includes independent development projects, analytical applications, Python automation scripts and foundational programming exercises.
