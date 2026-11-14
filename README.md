@@ -144,9 +144,6 @@ The project demonstrates practical data preparation, natural language processing
 **Technologies:** Python · NLTK · Scikit-Learn · Support Vector Machines · Pandas · Matplotlib
 
 
-
-
-
 ---
 
 ## 🐍 Python Development, Analytics & Learning Projects
@@ -179,7 +176,7 @@ The project demonstrates data processing, interactive application development an
 
 ---
 
-### Python Automation & Foundational Projects
+#### 03. Python Automation & Foundational Projects
 These earlier projects are retained as part of my development journey, reflecting the progression from foundational Python programming to more complex engineering applications.
 
 | Project | Description | Source |
