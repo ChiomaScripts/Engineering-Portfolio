@@ -9,7 +9,7 @@ A consolidated portfolio of engineering projects spanning production observabili
 
 This portfolio brings together professional engineering work, academic research, independent development and hands-on technical implementations. It provides a central catalogue of my projects, with direct links to public repositories and supporting documentation where available.
 
-**🌐 [Explore the Live Engineering Portfolio](https://chiomascripts.github.io/engineering-portfolio/)**
+**🌐 [Explore the Live Engineering Portfolio](https://chiomascripts.github.io/Engineering-Portfolio/)**
 
 ---
 
@@ -198,7 +198,7 @@ These earlier projects are retained as part of my development journey, reflectin
 
 | Destination | Purpose |
 | :--- | :--- |
-| 🌐 [Live Engineering Portfolio](https://chiomascripts.github.io/engineering-portfolio/) | Visual portfolio website |
+| 🌐 [Live Engineering Portfolio](https://chiomascripts.github.io/Engineering-Portfolio/) | Visual portfolio website |
 | ☁️ [DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio) | Detailed DevOps implementation collection |
 | 🏢 [Professional & Applied Engineering Projects](https://github.com/ChiomaScripts/Applied-Engineering-Projects) | Applied engineering, analytics and Python project collection |
 | 💻 [GitHub Profile](https://github.com/ChiomaScripts) | Professional background, skills and achievements |
