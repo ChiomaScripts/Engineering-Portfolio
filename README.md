@@ -142,7 +142,9 @@ Developed an NLP-based analysis of more than 20,000 restaurant customer reviews,
 The project demonstrates practical data preparation, natural language processing, classification and analytical interpretation.
 
 **Technologies:** Python · NLTK · Scikit-Learn · Support Vector Machines · Pandas · Matplotlib
----
+
+
+
 
 
 ---
