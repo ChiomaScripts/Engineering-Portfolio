@@ -39,7 +39,6 @@ The implementation covers Linux administration, SSH authentication, user permiss
 
 **Technologies:** DigitalOcean · Ubuntu Linux · SSH · SCP · Java · Gradle · Spring Boot
 
-**[Explore Project →](https://github.com/ChiomaScripts/Dev5-cloud-iaas)**
 
 ---
 
@@ -51,7 +50,6 @@ The project includes repository configuration, troubleshooting server resource c
 
 **Technologies:** DigitalOcean · Ubuntu Linux · Nexus Repository Manager · Gradle · Maven · Java
 
-**[Explore Project →](https://github.com/ChiomaScripts/Dev6-nexus-artifact-repository)**
 
 ---
 
@@ -65,7 +63,6 @@ The project also documents the application architecture, CRUD operations, verifi
 
 **Technologies:** Docker · Python · FastAPI · MongoDB · Mongo Express · Docker Networking · WSL 2
 
-**[Explore Project →](https://github.com/ChiomaScripts/Dev7a-docker-python)**
 
 ---
 
@@ -146,7 +143,6 @@ The project demonstrates practical data preparation, natural language processing
 
 **Technologies:** Python · NLTK · Scikit-Learn · Support Vector Machines · Pandas · Matplotlib
 
-**[Explore Project →](https://github.com/ChiomaScripts/My-Portfolio/tree/main/Emotion%20Annotation%20of%20Customer%20Reviews)**
 
 ---
 
@@ -174,7 +170,6 @@ The project applies data processing and visual analytics to explore patterns in 
 
 **Technologies:** Python · Pandas · Plotly · Exploratory Data Analysis
 
-**[Explore Project →](https://github.com/ChiomaScripts/England-Wales-2021-Housing-Trends)**
 
 ---
 
@@ -186,7 +181,6 @@ The project demonstrates data processing, interactive application development an
 
 **Technologies:** Python · Streamlit · Pandas · Plotly
 
-**[Explore Project →](https://github.com/ChiomaScripts/Instagram_Analytics_Dashboard)**
 
 ---
 
