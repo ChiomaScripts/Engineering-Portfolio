@@ -190,30 +190,6 @@ These earlier projects are retained as part of my development journey, reflectin
 
 ---
 
-## 🔧 Engineering Disciplines
-
-My projects collectively span the following areas:
-
-| Discipline | Technologies & Practices |
-| :--- | :--- |
-| **Observability & Reliability** | Splunk, SPL, Prometheus, Grafana, Loki, incident investigation, event correlation |
-| **Cloud & Infrastructure** | DigitalOcean, Ubuntu Linux, SSH, server configuration, application deployment |
-| **Containerisation** | Docker, image building, container networking, multi-container applications |
-| **Application Development** | Python, FastAPI, Java, REST APIs, PostgreSQL, MongoDB |
-| **Automation & Scripting** | Python, SQL, Bash, Linux command-line workflows |
-| **AI & Machine Learning** | GANs, CTGAN, Scikit-Learn, NLP, data preparation and model evaluation |
-| **Data Analytics** | Pandas, Plotly, Streamlit, exploratory analysis and visualisation |
-
----
-
-## 📈 Ongoing Engineering Development
-
-My current development focus includes deepening my practical capabilities in DevOps, cloud infrastructure, infrastructure automation and cloud-native application delivery.
-
-I am also preparing for the **OpenTelemetry Certified Associate (OTCA)** certification, building on my existing production observability experience.
-
-As new implementations are completed, they will be added to the relevant project collections and indexed here.
-
 ---
 
 ## 🔗 Portfolio & Professional Links
