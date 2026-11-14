@@ -185,6 +185,7 @@ The project demonstrates data processing, interactive application development an
 ---
 
 ### Python Automation & Foundational Projects
+These earlier projects are retained as part of my development journey, reflecting the progression from foundational Python programming to more complex engineering applications.
 
 | Project | Description | Source |
 | :--- | :--- | :--- |
@@ -194,8 +195,6 @@ The project demonstrates data processing, interactive application development an
 | **Password Checker** | Uses an external API to check passwords against known breach records. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/password%20checker) |
 | **Word Guesser Game** | A foundational Python programming exercise implementing a word-guessing game. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/word_guesser_game) |
 | **Impromptu Data Analysis** | Exploratory data analysis exercises involving Python and data manipulation. | [View Project](https://github.com/ChiomaScripts/My-Portfolio/tree/main/impromptu_analysis) |
-
-These earlier projects are retained as part of my development journey, reflecting the progression from foundational Python programming to more complex engineering applications.
 
 **🐍 [Explore the Python & Applied Engineering Project Collection](https://github.com/ChiomaScripts/My-Portfolio)**
 
