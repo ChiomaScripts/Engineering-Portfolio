@@ -144,13 +144,6 @@ The project demonstrates practical data preparation, natural language processing
 **Technologies:** Python · NLTK · Scikit-Learn · Support Vector Machines · Pandas · Matplotlib
 
 
----
-
-### Professional & Applied Engineering Collection
-
-Additional context and supporting public project materials are maintained in the dedicated collection below.
-
-**🏢 [Explore Professional & Applied Engineering Projects](https://github.com/ChiomaScripts/My-Portfolio)**
 
 ---
 
