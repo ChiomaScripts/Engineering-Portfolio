@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,6 +106,15 @@ section{padding:60px 0}
   text-transform:uppercase;font-size:10px;
 }
 .project h3{font-size:18px;line-height:1.3;margin:12px 0}
+/* Keep Dev7a visibly pinned as the reference application for later projects. */
+.project.pinned{border-color:#b6a1ff88}
+.pin-label{
+  display:inline-flex;align-items:center;align-self:flex-start;
+  margin-top:12px;padding:5px 10px;border-radius:999px;
+  border:1px solid #b6a1ff66;background:#b6a1ff16;
+  color:#d7cbff;font-size:11px;font-weight:750;letter-spacing:.02em;
+}
+.project .pin-explanation{font-size:12px;color:#c4b7f0;margin-top:0}
 .project p{font-size:13px;color:var(--muted);margin:0 0 16px}
 .project a{
   color:var(--purple);font-size:13px;
@@ -268,8 +276,8 @@ section{padding:60px 0}
       <h3>DevOps &amp; Cloud Engineering</h3>
       <p>
         Documented implementations covering Linux, cloud servers,
-        artifact repositories, Docker, container networking and
-        application deployment.
+        artifact repositories, Docker, container networking, private
+        image registries and application deployment.
       </p>
       <div class="tags">
         <span class="tag">Docker</span>
@@ -310,14 +318,27 @@ section{padding:60px 0}
     </p>
   </div>
   <div class="projectgrid">
-    <article class="project">
+    <article class="project pinned">
       <small>Dev7a · Docker</small>
+      <span class="pin-label" aria-label="Pinned reference project">📌 Pinned · Reference project</span>
       <h3>Python Girls That Code</h3>
       <p>
         Custom FastAPI image and three-container application with MongoDB,
         Mongo Express and Docker bridge networking.
       </p>
+      <p class="pin-explanation">Pinned first as the foundational application referenced throughout subsequent Docker projects.</p>
       <a href="https://github.com/ChiomaScripts/Dev7a-docker-python" rel="noopener" target="_blank">Explore repository ↗</a>
+    </article>
+
+    <article class="project">
+      <small>Dev7b · Docker registry</small>
+      <h3>Private Docker Registry with Sonatype Nexus</h3>
+      <p>
+        Self-hosted Nexus Docker registry on DigitalOcean, with image tagging,
+        authentication and publishing of a FastAPI image. Includes Linux-based
+        investigation of push timeouts and verification of the published image.
+      </p>
+      <a href="https://github.com/ChiomaScripts/Dev7b-docker-nexus-registry" rel="noopener" target="_blank">Explore repository ↗</a>
     </article>
 
     <article class="project">
