@@ -25,11 +25,13 @@ This portfolio brings together professional engineering work, academic research,
 
 <a id="devops-projects"></a>
 
+
 ## ☁️ DevOps & Cloud Engineering
 
-A growing collection of hands-on engineering projects exploring the technologies and practices involved in provisioning infrastructure, deploying applications, managing artifacts, containerising services and automating operational workflows.
+A growing collection of hands-on engineering projects exploring the technologies and practices involved in provisioning infrastructure, deploying applications, managing artifacts, containerising services, configuring private registries, and automating operational workflows.
 
 These projects document practical implementations, architecture, technical decisions, troubleshooting and verification evidence.
+
 
 ### Featured Implementations
 
@@ -64,6 +66,20 @@ The project also documents the application architecture, CRUD operations, verifi
 **Technologies:** Docker · Python · FastAPI · MongoDB · Mongo Express · Docker Networking · WSL 2
 
 ---
+
+
+#### 04. [Private Docker Registry with Sonatype Nexus](https://github.com/ChiomaScripts/Dev7b-docker-nexus-registry)
+
+Provisioned and configured a private Docker image registry using Sonatype Nexus Repository Manager on a DigitalOcean Ubuntu server to support centralised storage and distribution of containerised applications.
+
+The implementation covers Docker hosted repository configuration, registry authentication and access controls, image tagging, and publishing an existing FastAPI application image from Docker Desktop to Nexus.
+
+The project also documents troubleshooting repeated Docker image push timeouts through Linux system diagnostics, process and network inspection, and Nexus application logs, culminating in successful image publication and verification.
+
+**Technologies:** Docker · Docker Desktop · Sonatype Nexus · DigitalOcean · Ubuntu Linux · Docker Registry · Linux Troubleshooting
+
+---
+
 
 ### Complete DevOps Project Collection
 
