@@ -23,15 +23,14 @@ This portfolio brings together professional engineering work, academic research,
 
 ---
 
-<a id="devops-projects"></a>
 
+<a id="devops-projects"></a>
 
 ## ☁️ DevOps & Cloud Engineering
 
-A growing collection of hands-on engineering projects exploring the technologies and practices involved in provisioning infrastructure, deploying applications, managing artifacts, containerising services, configuring private registries, and automating operational workflows.
+A growing collection of hands-on engineering projects exploring the technologies and practices involved in provisioning infrastructure, deploying applications, managing artifacts, containerising services, configuring private registries, orchestrating multi-container applications, managing persistent storage, and automating operational workflows.
 
-These projects document practical implementations, architecture, technical decisions, troubleshooting and verification evidence.
-
+These projects document practical implementations, architecture, technical decisions, troubleshooting and verification evidence. Each successive implementation builds on previously developed applications, infrastructure and engineering practices.
 
 ### Featured Implementations
 
@@ -67,7 +66,6 @@ The project also documents the application architecture, CRUD operations, verifi
 
 ---
 
-
 #### 04. [Private Docker Registry with Sonatype Nexus](https://github.com/ChiomaScripts/Dev7b-docker-nexus-registry)
 
 Provisioned and configured a private Docker image registry using Sonatype Nexus Repository Manager on a DigitalOcean Ubuntu server to support centralised storage and distribution of containerised applications.
@@ -80,12 +78,25 @@ The project also documents troubleshooting repeated Docker image push timeouts t
 
 ---
 
+#### 05. [Docker Compose, Service Networking & Persistent MongoDB Data](https://github.com/ChiomaScripts/Dev7c-docker-compose-volumes)
+
+Extended the existing Python Girls That Code application into a reproducible, multi-container deployment using Docker Compose, integrating the FastAPI application image hosted in a private Sonatype Nexus registry with MongoDB and Mongo Express.
+
+The implementation replaces manual container orchestration with a declarative Compose configuration, enabling coordinated service creation, automatic service-name resolution through Docker networking, environment-based configuration and health-aware startup dependencies.
+
+Configured MongoDB health checks, conditional service startup, container restart policies and a Docker-managed named volume to preserve database records independently of container lifecycle operations.
+
+Successfully deployed and validated the three-service stack locally, verified application and database connectivity, and demonstrated MongoDB data persistence across container teardown and recreation.
+
+**Technologies:** Docker Compose · Docker · Python · FastAPI · MongoDB · Mongo Express · Sonatype Nexus · Docker Networking · Docker Volumes · Health Checks · Environment Variables
+
+---
 
 ### Complete DevOps Project Collection
 
 The dedicated DevOps repository serves as the technical home for my infrastructure, deployment and automation projects.
 
-It contains project navigation, implementation documentation and a record of my continuing development across DevOps engineering disciplines.
+It contains project navigation, implementation documentation, architecture, configuration details, troubleshooting records and verification evidence across five completed hands-on DevOps engineering implementations.
 
 **☁️ [Explore the DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)**
 
