@@ -99,7 +99,7 @@ The implementation covers Docker Engine installation, container deployment, host
 
 **Technologies:** DigitalOcean · Ubuntu Linux · Docker Engine · Sonatype Nexus · SSH · Docker Volumes · Container Networking
 
-<hr>
+---
 
 #### 07. [Private Amazon ECR Registry & Docker Compose Deployment on AWS Lightsail](https://github.com/ChiomaScripts/Dev7e-aws-ecr-lightsail-compose)
 
@@ -111,9 +111,7 @@ Orchestrated FastAPI, MongoDB and Mongo Express as a three-service stack with Mo
 
 **Technologies:** AWS ECR · AWS Lightsail · IAM · AWS CLI · Docker · Docker Compose · Ubuntu Linux · SSH · SCP · Python · FastAPI · MongoDB · Mongo Express · Docker Volumes
 
-
 ---
-
 
 ### Complete DevOps Project Collection
 
