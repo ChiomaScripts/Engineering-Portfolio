@@ -99,7 +99,7 @@ The implementation covers Docker Engine installation, container deployment, host
 
 **Technologies:** DigitalOcean · Ubuntu Linux · Docker Engine · Sonatype Nexus · SSH · Docker Volumes · Container Networking
 
----
+<hr>
 
 #### 07. [Private Amazon ECR Registry & Docker Compose Deployment on AWS Lightsail](https://github.com/ChiomaScripts/Dev7e-aws-ecr-lightsail-compose)
 
