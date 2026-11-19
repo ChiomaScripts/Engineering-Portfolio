@@ -106,8 +106,10 @@ section{padding:60px 0}
   text-transform:uppercase;font-size:10px;
 }
 .project h3{font-size:18px;line-height:1.3;margin:12px 0}
-/* Keep Dev7a visibly pinned as the reference application for later projects. */
+/* Dev7a is the pinned reference application; all other DevOps cards follow newest-first order. */
 .project.pinned{border-color:#b6a1ff88}
+/* A personal favourite marker for Dev7e, without pinning or changing its position. */
+.dev7e-heart{font-size:15px;vertical-align:middle;margin-left:5px;letter-spacing:normal;text-transform:none}
 .pin-label{
   display:inline-flex;align-items:center;align-self:flex-start;
   margin-top:12px;padding:5px 10px;border-radius:999px;
@@ -332,6 +334,29 @@ section{padding:60px 0}
     </article>
 
     <article class="project">
+      <small>Dev7e · AWS ECR &amp; Lightsail <span class="dev7e-heart" role="img" aria-label="Personal favourite">💜</span></small>
+      <h3>Private ECR &amp; Remote Docker Compose Deployment</h3>
+      <p>
+        Published the FastAPI image to private Amazon ECR, deployed a
+        three-service Docker Compose stack on AWS Lightsail with MongoDB
+        health checks and persistent storage, and verified browser access
+        through a restricted firewall rule.
+      </p>
+      <a href="https://github.com/ChiomaScripts/Dev7e-aws-ecr-lightsail-compose" rel="noopener" target="_blank">Explore repository ↗</a>
+    </article>
+
+    <article class="project">
+      <small>Dev7d · Containerised infrastructure</small>
+      <h3>Containerised Nexus Deployment on DigitalOcean</h3>
+      <p>
+        Deployed Sonatype Nexus as a Docker container on a DigitalOcean Ubuntu
+        server, configuring persistent storage, container lifecycle management
+        and port publishing; verified access to the cloud-hosted service.
+      </p>
+      <a href="https://github.com/ChiomaScripts/Dev7d-containerized-nexus-deployment" rel="noopener" target="_blank">Explore repository ↗</a>
+    </article>
+
+    <article class="project">
       <small>Dev7c · Docker Compose</small>
       <h3>Docker Compose, Service Networking &amp; Persistent MongoDB Data</h3>
       <p>
@@ -353,29 +378,6 @@ section{padding:60px 0}
         investigation of push timeouts and verification of the published image.
       </p>
       <a href="https://github.com/ChiomaScripts/Dev7b-docker-nexus-registry" rel="noopener" target="_blank">Explore repository ↗</a>
-    </article>
-
-    <article class="project">
-      <small>Dev7d · Containerised infrastructure</small>
-      <h3>Containerised Nexus Deployment on DigitalOcean</h3>
-      <p>
-        Deployed Sonatype Nexus as a Docker container on a DigitalOcean Ubuntu
-        server, configuring persistent storage, container lifecycle management
-        and port publishing; verified access to the cloud-hosted service.
-      </p>
-      <a href="https://github.com/ChiomaScripts/Dev7d-containerized-nexus-deployment" rel="noopener" target="_blank">Explore repository ↗</a>
-    </article>
-
-    <article class="project">
-      <small>Dev7e · AWS ECR &amp; Lightsail</small>
-      <h3>Private ECR &amp; Remote Docker Compose Deployment</h3>
-      <p>
-        Published the FastAPI image to private Amazon ECR, deployed a
-        three-service Docker Compose stack on AWS Lightsail with MongoDB
-        health checks and persistent storage, and verified browser access
-        through a restricted firewall rule.
-      </p>
-      <a href="https://github.com/ChiomaScripts/Dev7e-aws-ecr-lightsail-compose" rel="noopener" target="_blank">Explore repository ↗</a>
     </article>
 
     <article class="project">
