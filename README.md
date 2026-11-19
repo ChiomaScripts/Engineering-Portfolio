@@ -111,7 +111,9 @@ Orchestrated FastAPI, MongoDB and Mongo Express as a three-service stack with Mo
 
 **Technologies:** AWS ECR · AWS Lightsail · IAM · AWS CLI · Docker · Docker Compose · Ubuntu Linux · SSH · SCP · Python · FastAPI · MongoDB · Mongo Express · Docker Volumes
 
+
 ---
+
 
 ### Complete DevOps Project Collection
 
