@@ -23,14 +23,13 @@ This portfolio brings together professional engineering work, academic research,
 
 ---
 
-
 <a id="devops-projects"></a>
 
 ## ☁️ DevOps & Cloud Engineering
 
-A growing collection of hands-on engineering projects exploring the technologies and practices involved in provisioning infrastructure, deploying applications, managing artifacts, containerising services, configuring private registries, orchestrating multi-container applications, managing persistent storage, and automating operational workflows.
+A growing collection of hands-on engineering projects exploring cloud infrastructure across DigitalOcean and AWS, Linux administration, application deployment, artifact management, containerisation, private registries, Docker Compose orchestration, persistent storage and operational automation.
 
-These projects document practical implementations, architecture, technical decisions, troubleshooting and verification evidence. Each successive implementation builds on previously developed applications, infrastructure and engineering practices.
+These projects document practical implementations, architecture, technical decisions, troubleshooting and verification evidence. Each successive implementation builds on previously developed applications, infrastructure and engineering practices, demonstrating progression from foundational cloud administration to containerised services and remote multi-container application deployment.
 
 ### Featured Implementations
 
@@ -92,11 +91,33 @@ Successfully deployed and validated the three-service stack locally, verified ap
 
 ---
 
+#### 06. [Containerised Nexus Deployment on DigitalOcean](https://github.com/ChiomaScripts/Dev7d-containerized-nexus-deployment)
+
+Deployed Sonatype Nexus Repository Manager as a Docker container on a DigitalOcean Ubuntu server, extending earlier experience with host-installed Nexus into containerised infrastructure management.
+
+The implementation covers Docker Engine installation, container deployment, host-to-container port publishing, persistent Docker-managed storage, container lifecycle management and verification of the cloud-hosted Nexus service.
+
+**Technologies:** DigitalOcean · Ubuntu Linux · Docker Engine · Sonatype Nexus · SSH · Docker Volumes · Container Networking
+
+---
+
+#### 07. [Private Amazon ECR Registry & Docker Compose Deployment on AWS Lightsail](https://github.com/ChiomaScripts/Dev7e-aws-ecr-lightsail-compose)
+
+Deployed the existing Python Girls That Code FastAPI application to an AWS Lightsail Ubuntu instance using a private Amazon ECR image and Docker Compose.
+
+Published the application image to ECR using AWS CLI and IAM authentication, configured Docker on the remote host, authenticated and retrieved the private image, and securely transferred deployment configuration using SSH/SCP.
+
+Orchestrated FastAPI, MongoDB and Mongo Express as a three-service stack with MongoDB health checks, persistent Docker-managed storage and restricted cloud firewall access. Successfully verified the running application through the Lightsail public endpoint.
+
+**Technologies:** AWS ECR · AWS Lightsail · IAM · AWS CLI · Docker · Docker Compose · Ubuntu Linux · SSH · SCP · Python · FastAPI · MongoDB · Mongo Express · Docker Volumes
+
+---
+
 ### Complete DevOps Project Collection
 
 The dedicated DevOps repository serves as the technical home for my infrastructure, deployment and automation projects.
 
-It contains project navigation, implementation documentation, architecture, configuration details, troubleshooting records and verification evidence across five completed hands-on DevOps engineering implementations.
+It contains project navigation, implementation documentation, architecture, configuration details, troubleshooting records and verification evidence across **seven completed hands-on DevOps engineering implementations**, spanning DigitalOcean and AWS cloud environments, Linux administration, artifact repository management, Docker containerisation, private container registries, multi-container orchestration and persistent storage.
 
 **☁️ [Explore the DevOps Engineering Portfolio](https://github.com/ChiomaScripts/DevOps-Portfolio)**
 
